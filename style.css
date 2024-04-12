@@ -1,0 +1,13 @@
+
+  h1 {
+    color: rgb(164, 116, 82);
+    text-align: center;
+    background-color: rgb(69, 97, 102);
+    /* position: absolute;
+     top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); */
+  }
+ body{
+    background-color:rgb(141, 29, 29) ;
+ }
